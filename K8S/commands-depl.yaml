@@ -16,7 +16,7 @@ spec:
         - name: commandservice
           image: binarythistle/commandservice:latest
 ---
-apiVersion: v1
+a piVersion: v1
 kind: Service
 metadata:
   name: commands-clusterip-srv
